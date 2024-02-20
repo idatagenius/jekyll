@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/idatagenius/jekyll/compare/v1.0.2...v1.1.0) (2024-02-20)
+
+
+### Features
+
+* **pencil:** add 'graphiteWidth' option ([f12548c](https://github.com/idatagenius/jekyll/commit/f12548cb35e670bb6dadaf17fa08ac76441870cc))
+
 ## [1.0.2](https://github.com/idatagenius/jekyll/compare/v1.0.1...v1.0.2) (2024-02-20)
 
 
