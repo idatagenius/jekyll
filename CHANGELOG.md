@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/idatagenius/jekyll/compare/v1.0.0...v1.0.1) (2024-02-20)
+
+
+### Bug Fixes
+
+* fix bug in semantic release 5 ([f9a4988](https://github.com/idatagenius/jekyll/commit/f9a49881f0d2c6905755d5e61779c670c93bb2b6))
+
 # 1.0.0 (2024-02-20)
 
 

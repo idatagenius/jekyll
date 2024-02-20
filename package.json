@@ -1,6 +1,6 @@
 {
   "name": "jekyll",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "app.js",
   "dependencies": {
     "moment": "^2.30.1"
