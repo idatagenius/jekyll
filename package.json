@@ -40,9 +40,9 @@
         }
       ],
       "@semantic-release/github"
+    ],
+    "branches": [
+      "main"
     ]
-  },
-  "branches": [
-    "main"
-  ]
+  }
 }
