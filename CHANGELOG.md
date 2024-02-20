@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/idatagenius/jekyll/compare/v1.0.1...v1.0.2) (2024-02-20)
+
+
+### Bug Fixes
+
+* **pencil:** stop graphite breaking when too much pressure applied ([48ffff2](https://github.com/idatagenius/jekyll/commit/48ffff23f5e3229d7c686af74d6762b9534f3ecb))
+
 ## [1.0.1](https://github.com/idatagenius/jekyll/compare/v1.0.0...v1.0.1) (2024-02-20)
 
 
