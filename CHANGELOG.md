@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/idatagenius/jekyll/compare/v1.1.0...v1.1.1) (2024-02-20)
+
+
+### Performance Improvements
+
+* **pencil:** remove graphiteWidth optionBREAKING CHANGE: The graphiteWidth option has been removed.The default graphite width of 10mm is always used for performance reasons. ([8535830](https://github.com/idatagenius/jekyll/commit/853583054a2431f7de925b54ff28059a5813f939))
+
 # [1.1.0](https://github.com/idatagenius/jekyll/compare/v1.0.2...v1.1.0) (2024-02-20)
 
 
