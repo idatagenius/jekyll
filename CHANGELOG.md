@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/idatagenius/jekyll/compare/v2.0.0...v2.0.1) (2024-02-29)
+
+
+### Bug Fixes
+
+* **readme:** added Comment ([7fa7d24](https://github.com/idatagenius/jekyll/commit/7fa7d24a3dd79ba938f5c9bf8c9ce4030fa49a5f))
+
 # [2.0.0](https://github.com/idatagenius/jekyll/compare/v1.1.1...v2.0.0) (2024-02-20)
 
 
