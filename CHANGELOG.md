@@ -1,3 +1,10 @@
+## [2.0.2](https://github.com/idatagenius/jekyll/compare/v2.0.1...v2.0.2) (2024-07-19)
+
+
+### Bug Fixes
+
+* added semantic release ([ef02fd1](https://github.com/idatagenius/jekyll/commit/ef02fd10cff7b9c4189c58716545f3cd4065ed17))
+
 ## [2.0.1](https://github.com/idatagenius/jekyll/compare/v2.0.0...v2.0.1) (2024-02-29)
 
 
